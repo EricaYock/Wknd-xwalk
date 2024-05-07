@@ -1,7 +1,5 @@
 {
   "mappings": [
-    "/:/",
-    "/content/plume/metadata.json:/metadata.json",
-    "/content/plume/redirects.json:/redirects.json"
+    "/content/plume/:/"
   ]
 }
