@@ -175,7 +175,7 @@ a.button:any-link, button {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  border-radius: var(--button-border-radius);
+  border-radius: 16px;
   line-height: 1.5;
 }
 
