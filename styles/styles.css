@@ -157,8 +157,8 @@ pre {
 /* buttons */
 
 a.button:any-link, button {
-  color: var(--button-text-color);
-  background-color: var(--button-background-color);
+  color: white;
+  background-color: #6269FF;
   text-transform: uppercase;
   font-size: 14px;
   padding: var(--button-padding);
@@ -171,7 +171,7 @@ a.button:any-link, button {
   text-align: center;
   font-style: normal;
   cursor: pointer;
-  margin: 16px 0;
+  margin: 16px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
